@@ -1,0 +1,11 @@
+{
+  "name": "IM COMPOSER",
+  "description": "Professional AI image composition and strategic suite with Agentic reasoning and Live interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
